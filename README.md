@@ -1,8 +1,8 @@
 # Travail Pratique #1: TCP Port Scanner
 
 ## Auteurs
-- CODE_PERMANENT, Nom, Prénom
-- CODE_PERMANENT, Nom, Prénom
+- PELV07030600, Pellé, Victor
+- ROUF30040400, Roux, Fabien
 
 ## Compatibilité
 
